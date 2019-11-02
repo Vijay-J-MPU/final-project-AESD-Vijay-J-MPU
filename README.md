@@ -3,6 +3,7 @@
 # Quick Links
 
 - **Project Overview:** [View Wiki](https://github.com/Vijay-J-MPU/final-project-AESD-Vijay-J-MPU/wiki/Project-Overview)
+<<<<<<< HEAD
 - **Schedule Page:** [View Schedule](https://github.com/users/Vijay-J-MPU/projects/2/views/1)
 <<<<<<< HEAD
 =======
@@ -23,3 +24,6 @@ It also contains instructions related to modifying your buildroot project to use
 >>>>>>> b9a9379 (rpi)
 =======
 >>>>>>> 8dfcc20 (Update README.md)
+=======
+- **Schedule Page:** [View Schedule](https://github.com/users/Vijay-J-MPU/projects/2/views/1)
+>>>>>>> cc8dbc9 (rpi)
