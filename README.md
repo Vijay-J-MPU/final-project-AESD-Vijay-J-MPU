@@ -4,6 +4,7 @@
 
 - **Project Overview:** [View Wiki](https://github.com/Vijay-J-MPU/final-project-AESD-Vijay-J-MPU/wiki/Project-Overview)
 - **Schedule Page:** [View Schedule](https://github.com/users/Vijay-J-MPU/projects/2/views/1)
+<<<<<<< HEAD
 =======
 # Overview
 
@@ -20,3 +21,5 @@ It also contains instructions related to modifying your buildroot project to use
 - **Project Overview:** [View Wiki](https://github.com/Vijay-J-MPU/final-project-AESD-Vijay-J-MPU/wiki/Project-Overview)
 - **Schedule Page:** [View Schedule](https://github.com/users/Vijay-J-MPU/projects/2/views/1)
 >>>>>>> b9a9379 (rpi)
+=======
+>>>>>>> 8dfcc20 (Update README.md)
