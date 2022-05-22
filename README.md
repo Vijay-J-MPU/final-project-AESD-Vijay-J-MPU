@@ -6,7 +6,7 @@
 =======
 # Overview
 
-This repository contains assignment starter code for buildroot based assignments for the course Advanced Embedded Software Design, ECEN 5013
+This repository contains assignment starter code for buildroot based assignments for the course Advanced Embedded Software Design, ECEN 5713
 
 <<<<<<< HEAD
 >>>>>>> cb6a39e (Add README, build and save_config scripts)
